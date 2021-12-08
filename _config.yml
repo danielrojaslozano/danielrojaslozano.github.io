@@ -77,13 +77,13 @@ analytics:
   google:
     tracking_id          : 
   goatcounter:
-    code		 : jayrobwilliams
+    code		 : 
 
 
 # Site Author
 author:
   name             : "Daniel Rojas"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Ph.D. Student at UBC"
   location         : "Vancouver, BC"
   employer         :
