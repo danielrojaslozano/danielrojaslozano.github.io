@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the department of Political Science at the [University of British Columbia](https://politics.ubc.ca/graduate/). I study the political economy of redistribution and redistributive preferences in economic elites. Specifically, I research under what conditions the wealthy in developing democracies are more likely to support redistributive policies. I use quantitative methods to answer my research questions.
-
-When I'm not doing research, I'm cooking.
+I am a Ph.D. student in the department of Political Science at the [University of British Columbia](https://politics.ubc.ca/graduate/). I study the political economy of developing democracies, with a regional focus on Latin America. My research interests include inequality, preferences for redistribution, and migration. In my dissertation, I investigate why economic elites fear prospective left-wing governments and how they respond to growing support for left-wing candidates. I use quantitative methods to answer my research questions.
