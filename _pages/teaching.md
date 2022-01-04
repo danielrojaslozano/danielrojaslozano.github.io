@@ -9,8 +9,8 @@ Head Teaching Assistant. Winter 2022 <br />
 
 **POLI 110: Investigating Politics: An Introduction to Scientific Policy Analysis** <br />
 Teaching Assistant. Fall 2021 <br />
-[Syllabus](/files/pdf/teaching/POLI 110 Syllabus Fall 2021.pdf){: .btn--research}
+[Syllabus](/files/pdf/teaching/POLI_110_Syllabus_AJ.pdf){: .btn--research}
 
 **POLI 380: Quantitative Methods in Political Science.** 
 Teaching Assistant, Fall 2020, Winter 2021 <br />
-[Syllabus](/files/pdf/teaching/POLI 380 Syllabus Cutler 2020W1.pdf){: .btn--research}
+[Syllabus](/files/pdf/teaching/POLI_380_Syllabus_Cutler.pdf){: .btn--research}
