@@ -13,7 +13,7 @@ name                     : &name "Daniel Rojas"
 description              : &description "Ph.D. Student in Political Science"
 url                      : https://darolo99.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "darolo99/darolo99.github.io"
+repository               : "danielrojaslozano/danielrojaslozano.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -99,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "darolo99"
+  github           : "danielrojaslozano"
   gitlab           : 
   google_plus      :
   keybase          :
