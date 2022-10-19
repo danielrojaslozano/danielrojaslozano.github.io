@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Daniel Rojas"
 title_separator          : "-"
 name                     : &name "Daniel Rojas"
-description              : &description "Ph.D. Student in Political Science"
+description              : &description "Ph.D. Candidate in Political Science"
 url                      : https://danielrojaslozano.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "danielrojaslozano/danielrojaslozano.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Daniel Rojas"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student at UBC"
+  bio              : "Ph.D. Candidate at UBC"
   location         : "Vancouver, BC"
   employer         :
   pubmed           :
