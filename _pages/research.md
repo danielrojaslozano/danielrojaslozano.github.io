@@ -48,7 +48,7 @@ details > p {
 For a complete list of publications, see [here](https://scholar.google.com/citations?user=ISMeDGgAAAAJ&hl=en&inst=17001591832933267808)
 
 
-## Working Papers
+# Working Papers
 
 **Do Governments Reward Left-Wing Opponents?** (under review)
 <br />
@@ -68,7 +68,7 @@ For a complete list of publications, see [here](https://scholar.google.com/citat
 [Pre-Analysis Plan](https://osf.io/kuwch){: .btn--research}
 [Working Paper](https://osf.io/kw6fm/){: .btn--research}
 
-## In Progress
+# In Progress
 **How Do Business Elites Respond to Social Protests?**
 
 **The Red Scare: Assessing the Effects of the Ideological and Programmatic Dimensions of the Left** with Natalia Bueno, Daniel Masterson, and Ugo Medrado Correa
