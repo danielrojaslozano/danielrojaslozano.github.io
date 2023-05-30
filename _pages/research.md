@@ -77,4 +77,4 @@ For a complete list of publications, see [here](https://scholar.google.com/citat
 
 **The Political Salience of Migration** with Natalia Bueno, Daniel Masterson, and Ugo Medrado Correa
 </details> &nbsp; 
-[Pre-Analysis Plan]([https://osf.io/5yrwv](https://osf.io/uk7qr)){: .btn--research}
+[Pre-Analysis Plan](https://osf.io/uk7qr){: .btn--research}
