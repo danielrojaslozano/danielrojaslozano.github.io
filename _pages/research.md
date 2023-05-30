@@ -67,3 +67,9 @@ For a complete list of publications, see [here](https://scholar.google.com/citat
 </details> &nbsp; 
 [Pre-Analysis Plan](https://osf.io/kuwch){: .btn--research}
 [Working Paper](https://osf.io/kw6fm/){: .btn--research}
+
+## In Progress
+**How Do Business Elites Respond to Social Protests?**
+
+**The Red Scare: Assessing the Effects of the Ideological and Programmatic Dimensions of the Left** with Natalia Bueno, Daniel Masterson, and Ugo Medrado Correa
+[Pre-Analysis Plan](https://osf.io/5yrwv){: .btn--research}
