@@ -59,7 +59,7 @@ For a complete list of publications, see [here](https://scholar.google.com/citat
 <br />
 <details><summary>Abstract</summary><p> When do wealthy individuals support redistributive policies? Recent literature finds that high levels of inequality and crime increase support for redistribution among the rich. However, the wealthy oppose redistribution in Latin America, a region with high inequality and criminality. We argue that the rich are sensitive to the negative externalities of inequality, but their support for redistribution depends on who advances the redistributive agenda: the Left or the Right. We posit the rich prefer redistribution under the Right because there is less uncertainty about the upper bound of the redistributive policy, more expected effectiveness, and fewer concerns about macroeconomic stability. Pre-registered survey experiments during the 2022 Colombian presidential election show that wealthy individuals support tax increases when proposed by the right-wing candidate and expect more effectiveness and less economic instability with a prospective right-wing government. Heterogeneous effects analyses further confirm that support for redistribution depends on who makes it.</p>
 </details> &nbsp; 
-[Pre-Analysis Plan](https://osf.io/ysxen){: .btn--research}
+[Pre-Analysis Plan](https://osf.io/kpxba/?view_only=9b5a928ce3df416a8cd665357c877c60){: .btn--research}
 
 **When Pandemic Threat Does Not Stoke Xenophobia: Evidence from a Panel Survey around COVID-19** with Yang-Yang Zhou and Margaret Peters
 <br />
