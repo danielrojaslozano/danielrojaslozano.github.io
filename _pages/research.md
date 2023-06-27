@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Research"
 permalink: /research/
 author_profile: true
 header:
@@ -45,7 +44,6 @@ details > p {
   box-shadow: 1px 1px 2px #bbbbbb;
 }
 </style>
-For a complete list of publications, see [here](https://scholar.google.com/citations?user=ISMeDGgAAAAJ&hl=en&inst=17001591832933267808)
 
 
 # Working Papers
