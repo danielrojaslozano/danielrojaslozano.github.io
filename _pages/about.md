@@ -15,3 +15,5 @@ I use observational and experimental empirical strategies to investigate how and
 In another line of research, I study migrants’ digital vulnerabilities and investigate interventions to reduce migrants’ exposure to misinformation. 
 
 <!-- I am an affiliated researcher at the [Centro Latam Digital](https://centrolatam.digital/).-->
+
+
