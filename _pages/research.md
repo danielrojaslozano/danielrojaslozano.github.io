@@ -79,5 +79,4 @@ details > p {
 [Pre-Analysis Plan](https://osf.io/uk7qr){: .btn--research}
 
 **Dignity of Migrants and Second Order Beliefs: Behavioral Games with Venezuelan Migrants and Colombians in Colombia** (with Margaret Peters and Yang-Yang Zhou)
-<br />
-[Pre-Analysis Plan](https://osf.io/ec9mk/){: .btn--research}
+
