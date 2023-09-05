@@ -70,11 +70,11 @@ details > p {
 # In Progress
 **How Do Business Elites Respond to Social Protests?**
 
-**The Red Scare: Assessing the Effects of the Ideological and Programmatic Dimensions of the Left** (with Natalia Bueno, Daniel Masterson, and Ugo Medrado Correa)
+**The Red Scare: Assessing the Effects of the Ideological and Programmatic Dimensions of the Left** (with Natalia Bueno and Daniel Masterson)
 <br />
 [Pre-Analysis Plan](https://osf.io/5yrwv){: .btn--research}
 
-**The Political Salience of Migration** (with Natalia Bueno, Daniel Masterson, and Ugo Medrado Correa)
+**The Political Salience of Migration** (with Natalia Bueno and Daniel Masterson)
 <br />
 [Pre-Analysis Plan](https://osf.io/uk7qr){: .btn--research}
 
