@@ -48,7 +48,7 @@ details > p {
 
 # Working Papers
 
-**Do Governments Reward Left-Wing Opponents?** (under review)
+**Do Governments Reward Left-Wing Opponents?** (R&R at the Journal of Politics)
 <br />
 <details><summary>Abstract</summary><p> Do governments reward left-wing opposition voters? The literature on distributive politics finds that governments use transfers to reward supporters. Yet this work focuses on what incumbents do before elections, fails to find compensations after elections, and overlooks who the incumbent won to even when different contenders might imply different risks to the establishment. I argue that governments strategically allocate transfers to reward left-wing opposition constituencies after elections and prevent future support for the Left given its historical threat to elites. Using a continuous difference-in-difference research design with data from Colombia, I show that opposition constituencies receive more transfers after elections but not before. A cross-national analysis further supports my argument. These findings have implications for the politics of the red scare in developing democracies.</p>
 </details> &nbsp;   
