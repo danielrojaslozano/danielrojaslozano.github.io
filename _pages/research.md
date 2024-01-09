@@ -53,6 +53,11 @@ details > p {
 <details><summary>Abstract</summary><p> Do governments reward left-wing opposition voters? The literature on distributive politics finds that governments use transfers to reward supporters. Yet this work focuses on what incumbents do before elections, fails to find compensations after elections, and overlooks who the incumbent won to even when different contenders might imply different risks to the establishment. I argue that governments strategically allocate transfers to reward left-wing opposition constituencies after elections and prevent future support for the Left given its historical threat to elites. Using a continuous difference-in-difference research design with data from Colombia, I show that opposition constituencies receive more transfers after elections but not before. A cross-national analysis further supports my argument. These findings have implications for the politics of the red scare in developing democracies.</p>
 </details> &nbsp;   
 
+**How Do Business Elites Respond to Social Protests?**
+<br />
+<details><summary>Abstract</summary><p> The political economy states instability and uncertainty negatively affect employment and investment. While violent protests create economic uncertainty and political instability, we know little about how economic elites respond to such events—most existing scholarship focuses on the impact of protests on political elites and public opinion. I argue that economically driven violent protests signal diminished state capacity and increased economic hardship. Violence creates fear and costs to elites, who lean on the signaling effect of protesters’ extreme behavior, coordinate their response through business associations, and decide to concede by creating jobs because they fear further unrest and future changes in the distribution of political power. I test this theory in Colombia and find that labor demand increases in municipalities exposed to violent protests, not among those exposed to nonviolent ones. Qualitative research validates the theorized mechanism. Results suggest that economic elites are responsive to redistributive demands expressed through extra-electoral means.</p>
+</details> &nbsp;   
+
  **Ideological Expectations and Support for Redistribution among the Wealthy** (with Fabio Resmini)(under review)
 <br />
 <details><summary>Abstract</summary><p> When and why do wealthy individuals support redistributive policies? Under standard political economy models, preferences for redistribution are a function of objective material conditions. The partisanship literature, on the contrary, argues that partisan identification is the driver of redistributive preferences. We move beyond this dichotomy to argue that the ideology of the government enacting redistribution is a key factor explaining support for redistribution among the wealthy. Through survey experiments during the 2022 Colombian presidential election, we find that the wealthy are more likely to support redistribution under a right-wing government and expect redistribution under the Right to be more efficient and less likely to generate instability. We demonstrate that the ideological composition of our sample does not drive our results and find heterogeneous preferences across respondents’ ideological positions. Importantly, the Right diminishes expectations of macroeconomic instability in both right- and left-wing wealthy. These findings illustrate the micro-foundations of right-wing redistribution.
@@ -68,7 +73,6 @@ details > p {
 [Working Paper](https://osf.io/kw6fm/){: .btn--research}
 
 # In Progress
-**How Do Business Elites Respond to Social Protests?**
 
 **The Red Scare: Assessing the Effects of the Ideological and Programmatic Dimensions of the Left** (with Natalia Bueno and Daniel Masterson)
 <br />
