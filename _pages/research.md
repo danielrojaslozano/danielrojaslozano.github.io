@@ -24,11 +24,11 @@ details > summary {
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.125em 0.25em;
-  color: #b21619;
+  color: #000;
   text-align: center;
   text-decoration: none !important;
   border: 1px solid;
-  border-color: #b21619;
+  border-color: #000;
   border-radius: 4px;
   cursor: pointer;
 }
