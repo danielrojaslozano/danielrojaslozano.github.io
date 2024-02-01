@@ -30,7 +30,6 @@ details > summary {
   border-color: #b21619;
   border-radius: 4px;
   cursor: pointer;
-  
 }
 
 details > summary::-webkit-details-marker {
@@ -42,6 +41,8 @@ details > p {
   margin-bottom: 0.25em;
   padding: 0.125em 0.25em;
   box-shadow: 1px 1px 2px #bbbbbb;
+  font-family: Georgia, serif;
+  font-size: 11px;
 }
 </style>
 
