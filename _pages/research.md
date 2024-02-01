@@ -17,6 +17,8 @@ details {
 details > summary:hover {
     color: #fff;
     background-color: #b21619 !important;
+  font-family: Georgia, serif;
+  font-size: 12px;
 }
 
 details > summary {
@@ -30,11 +32,15 @@ details > summary {
   border-color: #b21619;
   border-radius: 4px;
   cursor: pointer;
+  font-family: Georgia, serif;
+  font-size: 12px;
 }
 
 details > summary::-webkit-details-marker {
   display: none;
   float:left;
+  font-family: Georgia, serif;
+  font-size: 12px;
 }
 
 details > p {
@@ -42,7 +48,7 @@ details > p {
   padding: 0.125em 0.25em;
   box-shadow: 1px 1px 2px #bbbbbb;
   font-family: Georgia, serif;
-  font-size: 11px;
+  font-size: 12px;
 }
 </style>
 
