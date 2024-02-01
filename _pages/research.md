@@ -9,10 +9,7 @@ header:
 {% include toc title="Tags" %}
 
 <style>
-body {
-  font-family: Georgia, serif;
-  font-size: 11px;
-}
+  
 details {
   float:left;
   cursor: pointer;
