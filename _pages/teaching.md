@@ -16,5 +16,5 @@ Head Teaching Assistant. Winter 2021 <br />
 [Syllabus](/files/pdf/teaching/PPGA504_Syllabus_w2022.pdf){: .btn--research}
 
 **POLI 380: Quantitative Methods in Political Science.** <br />
-Teaching Assistant, Fall 2020, Winter 2020 <br />
+Teaching Assistant, Fall 2020, Winter 2020, Winter 2023 <br />
 [Syllabus](/files/pdf/teaching/POLI_380_Syllabus_Cutler.pdf){: .btn--research}
