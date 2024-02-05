@@ -65,7 +65,7 @@ details > p {
 </details> &nbsp; 
 [Pre-Analysis Plan](https://osf.io/kpxba/?view_only=9b5a928ce3df416a8cd665357c877c60){: .btn--research}
 
-**When Pandemic Threat Does Not Stoke Xenophobia: Evidence from a Panel Survey around COVID-19** (with Yang-Yang Zhou and Margaret Peters) (under review)
+**When Pandemic Threat Does Not Stoke Xenophobia: Evidence from a Panel Survey around COVID-19** (with Yang-Yang Zhou and Margaret Peters) (R&R at Politics, Groups, and Identities)
 <br />
 <details><summary>Abstract</summary><p> Many studies have found that pandemics heighten anti-immigrant attitudes among host citizens. Yet, most of these studies were done in Global North countries where migrants are likely to differ from host citizens in terms of race, religion, and ethnicity. Within the Global South, migrants and hosts are more likely to share these characteristics. Do pandemics spark the same anti-immigrant sentiment in these contexts? Further, pandemics often bring economic restrictions and job loss, making it difficult to untangle concerns over disease from economic concerns.  We examine the case of Venezuelan migrants in Colombia, who share many characteristics with host citizens, before and during COVID-19. Additionally, the Colombian government implemented a strict lockdown for several months, allowing us to focus on the economic effects of the pandemic. Using a panel experimental survey of 374 Colombians, supplemented by 550 new respondents at endline, we find no evidence that exposure to COVID-19 changes attitudes, even if respondents were directly affected. However, those who did not lose their jobs viewed Venezuelan migration more positively at endline.</p>
 </details> &nbsp; 
