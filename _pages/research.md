@@ -48,9 +48,9 @@ details > p {
 
 # Working Papers
 
-**Do Governments Reward Left-Wing Opponents?** (R&R at the Journal of Politics)
+**Do Right-Wing Governments Reward Left-Wing Opponents?** (R&R at the Journal of Politics)
 <br />
-<details><summary>Abstract</summary><p> Do governments reward left-wing opposition voters? The literature on distributive politics finds that governments use transfers to reward supporters. Yet this work focuses on what incumbents do before elections, fails to find compensations after elections, and overlooks who the incumbent won to even when different contenders might imply different risks to the establishment. I argue that governments strategically allocate transfers to reward left-wing opposition constituencies after elections and prevent future support for the Left given its historical threat to elites. Using a continuous difference-in-difference research design with data from Colombia, I show that opposition constituencies receive more transfers after elections but not before. A cross-national analysis further supports my argument. These findings have implications for the politics of the red scare in developing democracies.</p>
+<details><summary>Abstract</summary><p> The conventional view holds that incumbents expand transfers to allied or swing constituencies to increase their vote shares. I contrast the prevalent electoral competition explanation and propose a theory based on the historical left-right political conflict. I argue that the distinct promises of the left motivate right-wing incumbents to expand social transfers to left-wing constituencies. I posit that this strategy aims to hinder support for the left by demobilizing rather than winning over left-leaning supporters. Using a continuous difference-in-difference research design with data from Colombia, I show that the right-wing government expanded a welfare program in left-leaning constituencies. Additional tests suggest that this expansion followed a demobilization rather than a persuasion strategy. This research contributes to the understanding of distributive politics by highlighting the role of ideological distance between political contenders and the timing of social policy distribution in response to the leftist threat.</p>
 </details> &nbsp;   
 
 **How Do Business Elites Respond to Social Protests?**
