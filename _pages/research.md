@@ -73,14 +73,13 @@ details > p {
 [Working Paper](https://osf.io/kw6fm/){: .btn--research}
 
 # In Progress
-
-**The Red Scare: Assessing the Effects of the Ideological and Programmatic Dimensions of the Left** (with Natalia Bueno and Daniel Masterson)
-<br />
-[Pre-Analysis Plan](https://osf.io/5yrwv){: .btn--research}
-
-**The Political Salience of Migration** (with Natalia Bueno and Daniel Masterson)
+**When Does the Public Care About Immigration? The Political Salience of Venezuelan Immigration in Colombia** (with Natalia Bueno and Daniel Masterson)
 <br />
 [Pre-Analysis Plan](https://osf.io/uk7qr){: .btn--research}
 
 **Dignity of Migrants and Second Order Beliefs: Behavioral Games with Venezuelan Migrants and Colombians in Colombia** (with Margaret Peters and Yang-Yang Zhou)
+
+**The Red Scare: Assessing the Effects of the Ideological and Programmatic Dimensions of the Left** (with Natalia Bueno and Daniel Masterson)
+<br />
+[Pre-Analysis Plan](https://osf.io/5yrwv){: .btn--research}
 
