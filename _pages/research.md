@@ -73,6 +73,11 @@ details > p {
 [Working Paper](https://osf.io/kw6fm/){: .btn--research}
 
 # In Progress
+**Misinformation among Migrants** (with Antonella Bandiera)
+<br />
+[Pre-Analysis Plan]([https://osf.io/uk7qr](https://osf.io/njkcu
+)){: .btn--research}
+
 **When Does the Public Care About Immigration? The Political Salience of Venezuelan Immigration in Colombia** (with Natalia Bueno and Daniel Masterson)
 <br />
 [Pre-Analysis Plan](https://osf.io/uk7qr){: .btn--research}
