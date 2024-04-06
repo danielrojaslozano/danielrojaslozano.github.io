@@ -62,7 +62,7 @@ details > p {
 <br />
 <details><summary>Abstract</summary><p> When and why do wealthy individuals support redistributive policies? Under standard political economy models, preferences for redistribution are a function of objective material conditions. The partisanship literature, on the contrary, argues that partisan identification is the driver of redistributive preferences. We move beyond this dichotomy to argue that the ideology of the government enacting redistribution is a key factor explaining support for redistribution among the wealthy. Through survey experiments during the 2022 Colombian presidential election, we find that the wealthy are more likely to support redistribution under a right-wing government and expect redistribution under the Right to be more efficient and less likely to generate instability. We demonstrate that the ideological composition of our sample does not drive our results and find heterogeneous preferences across respondents’ ideological positions. Importantly, the Right diminishes expectations of macroeconomic instability in both right- and left-wing wealthy. These findings illustrate the micro-foundations of right-wing redistribution.</p>
 </details> &nbsp; 
-[Pre-Analysis Plan](https://osf.io/kpxba/?view_only=9b5a928ce3df416a8cd665357c877c60){: .btn--research}
+[Pre-Analysis Plan](https://osf.io/kpxba/?view_only=9b5a928ce3df416a8cd665357c877c60)
 [Working Paper](https://osf.io/preprints/osf/kfuhe){: .btn--research}
 
 **When Pandemic Threat Does Not Stoke Xenophobia: Evidence from a Panel Survey around COVID-19** (with Yang-Yang Zhou and Margaret Peters) (R&R at Politics, Groups, and Identities)
