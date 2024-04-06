@@ -31,8 +31,6 @@ details > summary {
   border-color: #b21619;
   border-radius: 4px;
   cursor: pointer;
-  font-family: "Times New Roman", Times, serif;
-  font-size: 12px;
 }
 
 details > summary::-webkit-details-marker {
@@ -44,11 +42,9 @@ details > p {
   margin-bottom: 0.25em;
   padding: 0.125em 0.25em;
   box-shadow: 1px 1px 2px #bbbbbb;
-  color: black;
-  font-family: "Times New Roman", Times, serif;
-  font-size: 12px;
 }
 </style>
+
 
 
 # Working Papers
