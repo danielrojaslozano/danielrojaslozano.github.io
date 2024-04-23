@@ -49,6 +49,13 @@ details > p {
 
 # Working Papers
 
+**When Does the Public Care About Immigration? The Political Salience of Venezuelan Immigration in Colombia** (with Natália Bueno and Daniel Masterson)
+<br />
+<details><summary>Abstract</summary><p> What triggers public concern about immigration? Although substantial research has investigated public attitudes toward immigration, less work has been done on its political salience. This study utilizes survey experiments with Colombians to investigate the drivers of both valence and salience concerning Venezuelan immigration. Employing experimental vignettes, the study explores the effects of different styles of rhetorical framing, specifically contrasting moderate anti-immigration framing with strong anti-immigration rhetoric, on attitudes about the salience and valence of immigration. First, we find that rhetoric that leads to more negative (positive) views on immigration also heightens (lessens) its perceived importance, suggesting a previously unacknowledged challenge for mobilizing political support for immigration. Second, strong anti-immigration messaging, akin to the style of rhetoric used by many contemporary populists, is highly effective in influencing opinions. Alarmingly, this rhetoric has broad effectiveness, even among people who did not hold negative views of immigration at baseline.</p>
+</details> &nbsp; 
+[Pre-Analysis Plan](https://osf.io/uk7qr){: .btn--research}
+
+
 **Do Right-Wing Governments Reward Left-Wing Opponents?** (R&R at the Journal of Politics)
 <br />
 <details><summary>Abstract</summary><p> The conventional view holds that incumbents expand transfers to allied or swing constituencies to increase their vote shares. I contrast the prevalent electoral competition explanation and propose a theory based on the historical left-right political conflict. I argue that the distinct promises of the left motivate right-wing incumbents to expand social transfers to left-wing constituencies. I posit that this strategy aims to hinder support for the left by demobilizing rather than winning over left-leaning supporters. Using a continuous difference-in-difference research design with data from Colombia, I show that the right-wing government expanded a welfare program in left-leaning constituencies. Additional tests suggest that this expansion followed a demobilization rather than a persuasion strategy. This research contributes to the understanding of distributive politics by highlighting the role of ideological distance between political contenders and the timing of social policy distribution in response to the leftist threat.</p>
@@ -78,13 +85,9 @@ details > p {
 <br />
 [Pre-Analysis Plan](https://osf.io/njkcu){: .btn--research}
 
-**When Does the Public Care About Immigration? The Political Salience of Venezuelan Immigration in Colombia** (with Natalia Bueno and Daniel Masterson)
-<br />
-[Pre-Analysis Plan](https://osf.io/uk7qr){: .btn--research}
-
 **Dignity of Migrants and Second Order Beliefs: Behavioral Games with Venezuelan Migrants and Colombians in Colombia** (with Margaret Peters and Yang-Yang Zhou)
 
-**The Red Scare: Assessing the Effects of the Ideological and Programmatic Dimensions of the Left** (with Natalia Bueno and Daniel Masterson)
+**The Red Scare: Assessing the Effects of the Ideological and Programmatic Dimensions of the Left** (with Natália Bueno and Daniel Masterson)
 <br />
 [Pre-Analysis Plan](https://osf.io/5yrwv){: .btn--research}
 
