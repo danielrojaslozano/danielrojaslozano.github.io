@@ -54,6 +54,7 @@ details > p {
 <details><summary>Abstract</summary><p> What triggers public concern about immigration? Although substantial research has investigated public attitudes toward immigration, less work has been done on its political salience. This study utilizes survey experiments with Colombians to investigate the drivers of both valence and salience concerning Venezuelan immigration. Employing experimental vignettes, the study explores the effects of different styles of rhetorical framing, specifically contrasting moderate anti-immigration framing with strong anti-immigration rhetoric, on attitudes about the salience and valence of immigration. First, we find that rhetoric that leads to more negative (positive) views on immigration also heightens (lessens) its perceived importance, suggesting a previously unacknowledged challenge for mobilizing political support for immigration. Second, strong anti-immigration messaging, akin to the style of rhetoric used by many contemporary populists, is highly effective in influencing opinions. Alarmingly, this rhetoric has broad effectiveness, even among people who did not hold negative views of immigration at baseline.</p>
 </details> &nbsp; 
 [Pre-Analysis Plan](https://osf.io/uk7qr){: .btn--research}
+[Working Paper](https://osf.io/preprints/socarxiv/ftsuz){: .btn--research}
 
 
 **Do Right-Wing Governments Reward Left-Wing Opponents?** (R&R at the Journal of Politics)
