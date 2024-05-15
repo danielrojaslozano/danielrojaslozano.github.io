@@ -86,7 +86,7 @@ details > p {
 <br />
 [Pre-Analysis Plan](https://osf.io/njkcu){: .btn--research}
 
-**Dignity of Migrants and Second Order Beliefs: Behavioral Games with Venezuelan Migrants and Colombians in Colombia** (with Margaret Peters and Yang-Yang Zhou)
+**Measuring Migrants' Metaperceptions using Behavioral Games** (with Margaret Peters and Yang-Yang Zhou)
 
 **The Red Scare: Assessing the Effects of the Ideological and Programmatic Dimensions of the Left** (with Natália Bueno and Daniel Masterson)
 <br />
