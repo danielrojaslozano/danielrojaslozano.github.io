@@ -50,7 +50,6 @@ details > p {
 
 **When Pandemic Threat Does Not Stoke Xenophobia: Evidence from a Panel Survey around COVID-19** (with Yang-Yang Zhou and Margaret Peters). Forthcoming at *Politics, Groups, and Identities*.
 <br />
-</details> &nbsp; 
 [Paper](https://www.tandfonline.com/doi/full/10.1080/21565503.2024.2392240#abstract){: .btn--research}
 [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YQ9DZJ){: .btn--research}
 
