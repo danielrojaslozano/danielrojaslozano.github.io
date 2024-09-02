@@ -50,11 +50,9 @@ details > p {
 
 **When Pandemic Threat Does Not Stoke Xenophobia: Evidence from a Panel Survey around COVID-19** (with Yang-Yang Zhou and Margaret Peters). Forthcoming at *Politics, Groups, and Identities*.
 <br />
-<details><summary>Abstract</summary><p> Studies have found that pandemics can heighten xenophobia among host citizens, often explained by the behavioral immune system theory (BIS) or elite-driven scapegoating. However, most research has overlooked the role of pandemic-related economic restrictions and job loss on sentiment toward immigrants. To isolate this economic mechanism, we examine the case of Venezuelan migrants in Colombia before and during COVID-19. Despite the Colombian government's severe economic lockdown, few politicians blamed Venezuelans for the pandemic. Thus, any economic impact on xenophobia should be evident. Using a panel experimental survey of 374 Colombians, supplemented with 550 new respondents at endline, we find no evidence that exposure to COVID-19 changed attitudes towards Venezuelans, even for those directly affected by the pandemic. Yet, those who did not lose their jobs viewed Venezuelan migration more positively at endline, providing support for the economic effects of pandemics.</p>
 </details> &nbsp; 
-[Pre-Analysis Plan](https://osf.io/kuwch){: .btn--research}
-[Working Paper](https://osf.io/kw6fm/){: .btn--research}
-[Supplementary Information](https://osf.io/dj7v5){: .btn--research}
+[Paper](https://www.tandfonline.com/doi/full/10.1080/21565503.2024.2392240#abstract){: .btn--research}
+[Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YQ9DZJ){: .btn--research}
 
 
 # Working Papers
