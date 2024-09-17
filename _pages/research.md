@@ -57,8 +57,7 @@ details > p {
 # Working Papers
 
 <b>How Do Business Elites Respond to Social Protests?</b>
-<br />
-<a href="javascript:void(0);" onclick="toggleAbstract()" style="text-decoration: underline; color: blue;">[Abstract]</a>
+<a href="javascript:void(0);" onclick="toggleAbstract()" style="text-decoration: underline; color: red;">[Abstract]</a>
 
 <div id="abstract-content" style="display: none; margin-top: 10px;">
     <p>The political economy states instability and uncertainty negatively affect employment and investment. While violent protests create economic uncertainty and political instability, we know little about how economic elites respond to such events—most existing scholarship focuses on the impact of protests on political elites and public opinion. I argue that economically driven violent protests signal diminished state capacity and increased economic hardship. Violence creates fear and costs to elites, who lean on the signaling effect of protesters’ extreme behavior, coordinate their response through business associations, and decide to concede by creating jobs because they fear further unrest and future changes in the distribution of political power. I test this theory in Colombia and find that labor demand increases in municipalities exposed to violent protests, not among those exposed to nonviolent ones. Qualitative research validates the theorized mechanism. Results suggest that economic elites are responsive to redistributive demands expressed through extra-electoral means.</p>
