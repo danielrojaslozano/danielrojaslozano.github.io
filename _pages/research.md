@@ -49,19 +49,32 @@ details > p {
 # Peer-Reviewed Publications
 
 **When Pandemic Threat Does Not Stoke Xenophobia: Evidence from a Panel Survey around COVID-19** (with Yang-Yang Zhou and Margaret Peters). *Politics, Groups, and Identities* (Sept 2024).
-<a href="https://www.tandfonline.com/doi/full/10.1080/21565503.2024.2392240#abstract" target="_blank">[Paper]</a>
+<a href="https://www.tandfonline.com/doi/full/10.1080/21565503.2024.2392240" target="_blank">[Paper]</a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YQ9DZJ" target="_blank">[Replication]</a>
 
 
 
 # Working Papers
 
-**How Do Business Elites Respond to Social Protests?**
+<b>How Do Business Elites Respond to Social Protests?</b>
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;2024 Best Graduate Student Paper Award at REPAL
-<br /> 
-<details><summary>Abstract</summary><p>The political economy states instability and uncertainty negatively affect employment and investment. While violent protests create economic uncertainty and political instability, we know little about how economic elites respond to such events—most existing scholarship focuses on the impact of protests on political elites and public opinion. I argue that economically driven violent protests signal diminished state capacity and increased economic hardship. Violence creates fear and costs to elites, who lean on the signaling effect of protesters’ extreme behavior, coordinate their response through business associations, and decide to concede by creating jobs because they fear further unrest and future changes in the distribution of political power. I test this theory in Colombia and find that labor demand increases in municipalities exposed to violent protests, not among those exposed to nonviolent ones. Qualitative research validates the theorized mechanism. Results suggest that economic elites are responsive to redistributive demands expressed through extra-electoral means.</p>
-</details> &nbsp;
+<a href="javascript:void(0);" onclick="toggleAbstract()" style="text-decoration: underline; color: blue;">[Abstract]</a>
+
+<div id="abstract-content" style="display: none; margin-top: 10px;">
+    <p>The political economy states instability and uncertainty negatively affect employment and investment. While violent protests create economic uncertainty and political instability, we know little about how economic elites respond to such events—most existing scholarship focuses on the impact of protests on political elites and public opinion. I argue that economically driven violent protests signal diminished state capacity and increased economic hardship. Violence creates fear and costs to elites, who lean on the signaling effect of protesters’ extreme behavior, coordinate their response through business associations, and decide to concede by creating jobs because they fear further unrest and future changes in the distribution of political power. I test this theory in Colombia and find that labor demand increases in municipalities exposed to violent protests, not among those exposed to nonviolent ones. Qualitative research validates the theorized mechanism. Results suggest that economic elites are responsive to redistributive demands expressed through extra-electoral means.</p>
+</div>
+
+<script>
+    function toggleAbstract() {
+        var content = document.getElementById("abstract-content");
+        if (content.style.display === "none") {
+            content.style.display = "block";
+        } else {
+            content.style.display = "none";
+        }
+    }
+</script>
+
 
  **Ideological Expectations and Support for Redistribution among the Wealthy** (with Fabio Resmini)(R&R at Political Science Research and Methods)
 <br />
