@@ -76,12 +76,11 @@ details > p {
 <details><summary>Abstract</summary><p> The conventional view holds that incumbents expand transfers to allied or swing constituencies to increase their vote shares. I contrast the prevalent electoral competition explanation and propose a theory based on the historical left-right political conflict. I argue that the distinct promises of the left motivate right-wing incumbents to expand social transfers to left-wing constituencies. I posit that this strategy aims to hinder support for the left by demobilizing rather than winning over left-leaning supporters. Using a continuous difference-in-difference research design with data from Colombia, I show that the right-wing government expanded a welfare program in left-leaning constituencies. Additional tests suggest that this expansion followed a demobilization rather than a persuasion strategy. This research contributes to the understanding of distributive politics by highlighting the role of ideological distance between political contenders and the timing of social policy distribution in response to the leftist threat.</p>
 </details> &nbsp;   
 
-<b>How Do Business Elites Respond to Social Protests?</b>
+**How Do Business Elites Respond to Social Protests?**
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;2024 Best Graduate Student Paper Award at REPAL
-<br />
 <details><summary>Abstract</summary><p>The political economy states instability and uncertainty negatively affect employment and investment. While violent protests create economic uncertainty and political instability, we know little about how economic elites respond to such events—most existing scholarship focuses on the impact of protests on political elites and public opinion. I argue that economically driven violent protests signal diminished state capacity and increased economic hardship. Violence creates fear and costs to elites, who lean on the signaling effect of protesters’ extreme behavior, coordinate their response through business associations, and decide to concede by creating jobs because they fear further unrest and future changes in the distribution of political power. I test this theory in Colombia and find that labor demand increases in municipalities exposed to violent protests, not among those exposed to nonviolent ones. Qualitative research validates the theorized mechanism. Results suggest that economic elites are responsive to redistributive demands expressed through extra-electoral means.</p>
-</details>
+</details> &nbsp;
 
 
 
