@@ -57,7 +57,7 @@ details > p {
 
 # Working Papers
 
-**How Do Business Elites Respond to Social Protests?**
+**How Do Business Elites Respond to Social Protests? [Job Market Paper]**
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;2024 Best Graduate Student Paper Award at REPAL
 <br /> 
@@ -95,6 +95,9 @@ details > p {
 
 
 # In Progress
+
+**Supply-Side Barriers to Migrants’ Financial Inclusion in Colombia: A Field Experiment on Bank Officers’ Immigration Attitudes**
+
 **Misinformation among Migrants** (with Antonella Bandiera)
 <br />
 [Pre-Analysis Plan](https://osf.io/njkcu){: .btn--research}
@@ -103,7 +106,7 @@ details > p {
 <br />
 [Pre-Analysis Plan](https://osf.io/agd9b){: .btn--research}
 
-**The Red Scare: Assessing the Effects of the Ideological and Programmatic Dimensions of the Left** (with Natália Bueno and Daniel Masterson)
+**Emotional Responses Without Policy Attitude Shifts: Examining the Limits of Affective Influence in Politics** (with Natália Bueno and Daniel Masterson)
 <br />
 [Pre-Analysis Plan](https://osf.io/5yrwv){: .btn--research}
 
