@@ -96,7 +96,7 @@ details > p {
 
 # In Progress
 
-**Supply-Side Barriers to Migrants’ Financial Inclusion in Colombia: A Field Experiment on Bank Officers’ Immigration Attitudes**
+**Barriers to Migrants’ Financial Inclusion in Colombia: A Field Experiment on Bank Officers’ Immigration Attitudes**
 
 **Misinformation among Migrants** (with Antonella Bandiera)
 <br />
