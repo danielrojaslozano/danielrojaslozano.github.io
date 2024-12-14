@@ -85,10 +85,11 @@ details > p {
 [Pre-Analysis Plan](https://osf.io/uk7qr){: .btn--research}
 [Working Paper](https://osf.io/preprints/socarxiv/ftsuz){: .btn--research}
 
-**Protecting Irregular Migrants: Evidence from Colombia** (with Alfredo Trejo III, Margaret Peters, and Yang-Yang Zhou)
+**Protecting Irregular Migrants: Evidence from Colombia** (with Alfredo Trejo III, Margaret Peters, and Yang-Yang Zhou)(under review)
 <br />
 <details><summary>Abstract</summary><p> When do host governments protect migrants and expand their rights? On February 8, 2021, Colombian President Iván Duque announced a 10-year temporary protected status for over 1.7 million Venezuelan migrants, a policy shift that contrasts with more restrictive migration responses globally. This paper examines the underlying motivations for Colombia's unexpected generosity, identifying three key factors: the pragmatic response to challenges in border control, the economic and legibility benefits of migrant regularization, and the pursuit of international reputation gains. Drawing on interviews with 30 Colombian policymakers, politicians, diplomats, bureaucrats, and NGO leaders, this study offers new insights into the drivers of inclusive migration policies in the Global South.</p>
 </details> &nbsp; 
+[Working Paper](https://www.dropbox.com/scl/fi/9safgv4twgu6gbnhv3o8p/Working-paper_Dec14.pdf?rlkey=sv8ytfsaodbdrbvwgaq0ktzzi&st=jx53ens4&dl=0){: .btn--research}
 
 **Do Right-Wing Governments Reward Left-Wing Opponents?** 
 <br />
