@@ -64,6 +64,12 @@ details > p {
 <details><summary>Abstract</summary><p>The political economy states instability and uncertainty negatively affect employment and investment. While violent protests create economic uncertainty and political instability, we know little about how economic elites respond to such events—most existing scholarship focuses on the impact of protests on political elites and public opinion. I argue that economically driven violent protests signal diminished state capacity and increased economic hardship. Violence creates fear and costs to elites, who lean on the signaling effect of protesters’ extreme behavior, coordinate their response through business associations, and decide to concede by creating jobs because they fear further unrest and future changes in the distribution of political power. I test this theory in Colombia and find that labor demand increases in municipalities exposed to violent protests, not among those exposed to nonviolent ones. Qualitative research validates the theorized mechanism. Results suggest that economic elites are responsive to redistributive demands expressed through extra-electoral means.</p>
 </details> &nbsp;
 
+**Misinformation among Migrants: Evidence from Mexico and Colombia** (with Antonella Bandiera)(under review)
+<br />
+<details><summary>Abstract</summary><p> This paper examines the effectiveness of media literacy interventions in combating misinformation among in-transit migrants in Mexico and Colombia. We conducted experiments to study whether an established strategy for fighting misinformation works for this understudied yet particularly vulnerable population. We evaluate the effect of digital media literacy tips on migrants' ability to identify false information and their intentions to share migration-related content. We find that these interventions can effectively decrease migrants' intentions to share misleading migration-related information, with a significantly larger reduction observed for false content than accurate information. We also find that prompting participants to think about accuracy can unintentionally obscure sharing intent by acting as a nudge. Additionally, the interventions decreased trust in social media as an information source while maintaining trust in official sources. The findings suggest that incorporating digital literacy tips into official websites could be a cost-effective strategy to reduce misinformation circulation among migrant populations.</p>
+</details> &nbsp; 
+[Pre-Analysis Plan](https://osf.io/njkcu){: .btn--research}
+[Working Paper](https://osf.io/preprints/osf/md42a){: .btn--research}
 
  **Ideological Expectations and Support for Redistribution among the Wealthy** (with Fabio Resmini)(R&R at Political Science Research and Methods)
 <br />
@@ -100,9 +106,6 @@ details > p {
 <br />
 [Pre-Analysis Plan](https://osf.io/6zhsa){: .btn--research}
 
-**Misinformation among Migrants** (with Antonella Bandiera)
-<br />
-[Pre-Analysis Plan](https://osf.io/njkcu){: .btn--research}
 
 **The Price of Dignity: Measuring Migrants' Metaperceptions using Behavioral Games** (with Margaret Peters and Yang-Yang Zhou)
 <br />
