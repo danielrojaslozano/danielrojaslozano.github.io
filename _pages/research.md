@@ -91,12 +91,7 @@ details > p {
 </details> &nbsp; 
 [Working Paper](https://osf.io/preprints/osf/f4j63){: .btn--research}
 
-**Do Right-Wing Governments Reward Left-Wing Opponents?** 
-<br />
-<details><summary>Abstract</summary><p> The conventional view holds that incumbents expand transfers to allied or swing constituencies to increase their vote shares. I contrast the prevalent electoral competition explanation and propose a theory based on the historical left-right political conflict. I argue that the distinct promises of the left motivate right-wing incumbents to expand social transfers to left-wing constituencies. I posit that this strategy aims to hinder support for the left by demobilizing rather than winning over left-leaning supporters. Using a continuous difference-in-difference research design with data from Colombia, I show that the right-wing government expanded a welfare program in left-leaning constituencies. Additional tests suggest that this expansion followed a demobilization rather than a persuasion strategy. This research contributes to the understanding of distributive politics by highlighting the role of ideological distance between political contenders and the timing of social policy distribution in response to the leftist threat.</p>
-</details> &nbsp;   
-
-
+  
 
 # In Progress
 
@@ -112,4 +107,6 @@ details > p {
 **Emotional Responses Without Policy Attitude Shifts: Examining the Limits of Affective Influence in Politics** (with Natália Bueno and Daniel Masterson)
 <br />
 [Pre-Analysis Plan](https://osf.io/5yrwv){: .btn--research}
+
+**Do Right-Wing Governments Reward Left-Wing Opponents?** 
 
