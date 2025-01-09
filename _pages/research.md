@@ -69,6 +69,8 @@ details > p {
 <details><summary>Abstract</summary><p> How do migrants perceive host citizens’ stereotypes about them, and can these metaperceptions change behaviors? We theorize that migrants are cognizant of hosts' stereotypes against them, which drive them to make choices that seem irrational based on economic cost-benefit calculations but are rational to restore status and dignity. To test our argument, we conducted behavioral lab games in Colombia, with 600 citizens and Venezuelan migrants. By randomizing partners and varying the information on partners' nationalities, we identify bias for and against outgroups. We find across games that Venezuelans give more to Colombians when both players' nationalities are known, compared to the baseline of no information and when playing with other Venezuelans. These findings suggest that migrants may act against their own financial self-interest to counteract prevalent stereotypes, such as being freeloaders on state welfare. We also find qualitative evidence that migrants desire to regain dignity by countering hosts' negative stereotypes.</p>
 </details> &nbsp; 
 [Pre-Analysis Plan](https://osf.io/agd9b){: .btn--research}
+[Working Paper](https://osf.io/preprints/osf/2gvy8){: .btn--research}
+
 
 **Misinformation among Migrants: Evidence from Mexico and Colombia** (with Antonella Bandiera)(under review)
 <br />
