@@ -46,7 +46,7 @@ details > p {
 </style>
 
 
-# Peer-Reviewed Publications
+# Publications
 
 **When Pandemic Threat Does Not Stoke Xenophobia: Evidence from a Panel Survey around COVID-19** (with Yang-Yang Zhou and Margaret Peters). *Politics, Groups, and Identities* (Sept 2024).
 <br />
