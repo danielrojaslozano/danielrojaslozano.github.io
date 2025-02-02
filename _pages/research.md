@@ -57,7 +57,7 @@ details > p {
 
 # Working Papers
 
-**How Do Business Elites Respond to Social Protests? (under review)**
+**How Do Business Elites Respond to Social Protests?** (under review)
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;2024 Best Graduate Student Paper Award at REPAL
 <br /> 
