@@ -55,16 +55,23 @@ details > p {
 
 
 
-# Working Papers
+# Under Review
 
-**How Do Business Elites Respond to Social Protests?** (under review)
+**Government Ideology and Support for Redistribution among the Wealthy** (with Fabio Resmini)(R&R at Political Science Research and Methods)
+<br />
+<details><summary>Abstract</summary><p> When and why do wealthy individuals support redistribution? Under standard political economy models, preferences for redistribution are a function of material conditions. The partisanship literature, on the contrary, argues that partisan identification determines redistributive preferences. We move beyond this dichotomy to argue that the ideology of the government enacting redistribution is a key factor explaining support for redistribution among the wealthy. Through survey experiments during the 2022 Colombian election, we find that the wealthy are more likely to support redistribution under a right-wing government and expect redistribution under the Right to be more efficient and less economically disruptive. We find heterogeneous treatment effects across ideological groups. However, regardless of ideology, the wealthy do not expect macroeconomic instability from right-wing redistribution.</p>
+</details> &nbsp; 
+[Pre-Analysis Plan](https://osf.io/kpxba/?view_only=9b5a928ce3df416a8cd665357c877c60){: .btn--research}
+[Working Paper](https://osf.io/preprints/osf/kfuhe){: .btn--research}
+
+**How Do Business Elites Respond to Social Protests?** (draft available upon request)
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;2024 Best Graduate Student Paper Award at REPAL
 <br /> 
 <details><summary>Abstract</summary><p>Conventional wisdom holds that violent protesters do not win concessions. Yet, existing research has predominantly examined responses from politicians or public opinion. I focus, instead, on economic elites, who are particularly vulnerable to violent unrest when they hold fixed capital and the state has low capacity to address social demands. I argue that in these scenarios, economically-driven violent unrest creates uncertainty and costs to business elites, who therefore decide to coordinate through business associations and concede to rioters by providing jobs, as they cannot rely on the state and fear further destruction. I test this argument in Colombia. Using an event study research design, I find that violent protests increase labor demand in affected municipalities. Interviews with business elites provide evidence of coordinated responses. These findings suggest that economic elites, under specific constraints, respond to extra-electoral redistributive demands by using private employment as a redistributive tool.</p>
 </details> &nbsp;
 
-**The Price of Dignity: Measuring Migrants' Metaperceptions using Behavioral Games** (with Yang-Yang Zhou, Margaret Peters, and Cybele Kappos)(under review)
+**The Price of Dignity: Measuring Migrants' Metaperceptions using Behavioral Games** (with Yang-Yang Zhou, Margaret Peters, and Cybele Kappos)
 <br />
 <details><summary>Abstract</summary><p> How do migrants perceive host citizens’ stereotypes about them, and can these metaperceptions change behaviors? We theorize that migrants are cognizant of hosts' stereotypes against them, which drive them to make choices that seem irrational based on economic cost-benefit calculations but are rational to restore status and dignity. To test our argument, we conducted behavioral lab games in Colombia, with 600 citizens and Venezuelan migrants. By randomizing partners and varying the information on partners' nationalities, we identify bias for and against outgroups. We find across games that Venezuelans give more to Colombians when both players' nationalities are known, compared to the baseline of no information and when playing with other Venezuelans. These findings suggest that migrants may act against their own financial self-interest to counteract prevalent stereotypes, such as being freeloaders on state welfare. We also find qualitative evidence that migrants desire to regain dignity by countering hosts' negative stereotypes.</p>
 </details> &nbsp; 
@@ -72,28 +79,21 @@ details > p {
 [Working Paper](https://osf.io/preprints/osf/2gvy8){: .btn--research}
 
 
-**Misinformation among Migrants: Evidence from Mexico and Colombia** (with Antonella Bandiera)(under review)
+**Misinformation among Migrants: Evidence from Mexico and Colombia** (with Antonella Bandiera)
 <br />
 <details><summary>Abstract</summary><p> This paper examines the effectiveness of media literacy interventions in combating misinformation among in-transit migrants in Mexico and Colombia. We conducted experiments to study whether an established strategy for fighting misinformation works for this understudied yet particularly vulnerable population. We evaluate the effect of digital media literacy tips on migrants' ability to identify false information and their intentions to share migration-related content. We find that these interventions can effectively decrease migrants' intentions to share misleading migration-related information, with a significantly larger reduction observed for false content than accurate information. We also find that prompting participants to think about accuracy can unintentionally obscure sharing intent by acting as a nudge. Additionally, the interventions decreased trust in social media as an information source while maintaining trust in official sources. The findings suggest that incorporating digital literacy tips into official websites could be a cost-effective strategy to reduce misinformation circulation among migrant populations.</p>
 </details> &nbsp; 
 [Pre-Analysis Plan](https://osf.io/njkcu){: .btn--research}
 [Working Paper](https://osf.io/preprints/osf/md42a){: .btn--research}
 
- **Government Ideology and Support for Redistribution among the Wealthy** (with Fabio Resmini)(R&R at Political Science Research and Methods)
-<br />
-<details><summary>Abstract</summary><p> When and why do wealthy individuals support redistribution? Under standard political economy models, preferences for redistribution are a function of material conditions. The partisanship literature, on the contrary, argues that partisan identification determines redistributive preferences. We move beyond this dichotomy to argue that the ideology of the government enacting redistribution is a key factor explaining support for redistribution among the wealthy. Through survey experiments during the 2022 Colombian election, we find that the wealthy are more likely to support redistribution under a right-wing government and expect redistribution under the Right to be more efficient and less economically disruptive. We find heterogeneous treatment effects across ideological groups. However, regardless of ideology, the wealthy do not expect macroeconomic instability from right-wing redistribution.</p>
-</details> &nbsp; 
-[Pre-Analysis Plan](https://osf.io/kpxba/?view_only=9b5a928ce3df416a8cd665357c877c60){: .btn--research}
-[Working Paper](https://osf.io/preprints/osf/kfuhe){: .btn--research}
-
-**When Does the Public Care About Immigration? The Political Salience of Venezuelan Immigration in Colombia** (with Natália Bueno and Daniel Masterson)(under review)
+**When Does the Public Care About Immigration? The Political Salience of Venezuelan Immigration in Colombia** (with Natália Bueno and Daniel Masterson)
 <br />
 <details><summary>Abstract</summary><p> What triggers public concern about immigration? Although substantial research has investigated public attitudes toward immigration, less work has been done on its political salience. This study utilizes survey experiments with Colombians to investigate the drivers of both valence and salience concerning Venezuelan immigration. Employing experimental vignettes, the study explores the effects of different styles of rhetorical framing, specifically contrasting moderate anti-immigration framing with strong anti-immigration rhetoric, on attitudes about the salience and valence of immigration. First, we find that rhetoric that leads to more negative (positive) views on immigration also heightens (lessens) its perceived importance, suggesting a previously unacknowledged challenge for mobilizing political support for immigration. Second, strong anti-immigration messaging, akin to the style of rhetoric used by many contemporary populists, is highly effective in influencing opinions. Alarmingly, this rhetoric has broad effectiveness, even among people who did not hold negative views of immigration at baseline.</p>
 </details> &nbsp; 
 [Pre-Analysis Plan](https://osf.io/uk7qr){: .btn--research}
 [Working Paper](https://osf.io/preprints/socarxiv/ftsuz){: .btn--research}
 
-**Protecting Irregular Migrants: Evidence from Colombia** (with Alfredo Trejo III, Margaret Peters, and Yang-Yang Zhou)(under review)
+**Protecting Irregular Migrants: Evidence from Colombia** (with Alfredo Trejo III, Margaret Peters, and Yang-Yang Zhou)
 <br />
 <details><summary>Abstract</summary><p> When do host governments protect migrants and expand their rights? On February 8, 2021, Colombian President Iván Duque announced a 10-year temporary protected status for over 1.7 million Venezuelan migrants, a policy shift that contrasts with more restrictive migration responses globally. This paper examines the underlying motivations for Colombia's unexpected generosity, identifying three key factors: the pragmatic response to challenges in border control, the economic and legibility benefits of migrant regularization, and the pursuit of international reputation gains. Drawing on interviews with 30 Colombian policymakers, politicians, diplomats, bureaucrats, and NGO leaders, this study offers new insights into the drivers of inclusive migration policies in the Global South.</p>
 </details> &nbsp; 
