@@ -57,14 +57,14 @@ details > p {
 
 # Under Review
 
-**Government Ideology and Support for Redistribution among the Wealthy** (with Fabio Resmini)(R&R at Political Science Research and Methods)
+**Government Ideology and Support for Redistribution among the Wealthy** (with Fabio Resmini)(R&R at *Political Science Research and Methods*)
 <br />
 <details><summary>Abstract</summary><p> When and why do wealthy individuals support redistribution? Under standard political economy models, preferences for redistribution are a function of material conditions. The partisanship literature, on the contrary, argues that partisan identification determines redistributive preferences. We move beyond this dichotomy to argue that the ideology of the government enacting redistribution is a key factor explaining support for redistribution among the wealthy. Through survey experiments during the 2022 Colombian election, we find that the wealthy are more likely to support redistribution under a right-wing government and expect redistribution under the Right to be more efficient and less economically disruptive. We find heterogeneous treatment effects across ideological groups. However, regardless of ideology, the wealthy do not expect macroeconomic instability from right-wing redistribution.</p>
 </details> &nbsp; 
 [Pre-Analysis Plan](https://osf.io/kpxba/?view_only=9b5a928ce3df416a8cd665357c877c60){: .btn--research}
 [Working Paper](https://osf.io/preprints/osf/kfuhe){: .btn--research}
 
-**Protecting Irregular Migrants: Evidence from Colombia** (with Alfredo Trejo III, Margaret Peters, and Yang-Yang Zhou)(R&R at Migration Studies)
+**Protecting Irregular Migrants: Evidence from Colombia** (with Alfredo Trejo III, Margaret Peters, and Yang-Yang Zhou)(R&R at *Migration Studies*)
 <br />
 <details><summary>Abstract</summary><p> When do host governments protect migrants and expand their rights? On February 8, 2021, Colombian President Iván Duque announced a 10-year temporary protected status for over 1.7 million Venezuelan migrants, a policy shift that contrasts with more restrictive migration responses globally. This paper examines the underlying motivations for Colombia's unexpected generosity, identifying three key factors: the pragmatic response to challenges in border control, the economic and legibility benefits of migrant regularization, and the pursuit of international reputation gains. Drawing on interviews with 30 Colombian policymakers, politicians, diplomats, bureaucrats, and NGO leaders, this study offers new insights into the drivers of inclusive migration policies in the Global South.</p>
 </details> &nbsp; 
