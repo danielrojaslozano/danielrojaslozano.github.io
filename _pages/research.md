@@ -59,6 +59,14 @@ details > p {
 
 # Under Review
 
+
+**Misinformation among Migrants: Evidence from Mexico and Colombia** (with Antonella Bandiera)(R&R at *Journal of Experimental Political Science*)
+<br />
+<details><summary>Abstract</summary><p> This paper examines the effectiveness of media literacy interventions in combating misinformation among in-transit migrants in Mexico and Colombia. We conducted experiments to study whether an established strategy for fighting misinformation works for this understudied yet particularly vulnerable population. We evaluate the effect of digital media literacy tips on migrants' ability to identify false information and their intentions to share migration-related content. We find that these interventions can effectively decrease migrants' intentions to share misleading migration-related information, with a significantly larger reduction observed for false content than accurate information. We also find that prompting participants to think about accuracy can unintentionally obscure sharing intent by acting as a nudge. Additionally, the interventions decreased trust in social media as an information source while maintaining trust in official sources. The findings suggest that incorporating digital literacy tips into official websites could be a cost-effective strategy to reduce misinformation circulation among migrant populations.</p>
+</details> &nbsp; 
+[Pre-Analysis Plan](https://osf.io/njkcu){: .btn--research}
+[Working Paper](https://osf.io/preprints/osf/md42a){: .btn--research}
+
 **Protecting Irregular Migrants: Evidence from Colombia** (with Alfredo Trejo III, Margaret Peters, and Yang-Yang Zhou)(R&R at *Migration Studies*)
 <br />
 <details><summary>Abstract</summary><p> When do host governments protect migrants and expand their rights? On February 8, 2021, Colombian President Iván Duque announced a 10-year temporary protected status for over 1.7 million Venezuelan migrants, a policy shift that contrasts with more restrictive migration responses globally. This paper examines the underlying motivations for Colombia's unexpected generosity, identifying three key factors: the pragmatic response to challenges in border control, the economic and legibility benefits of migrant regularization, and the pursuit of international reputation gains. Drawing on interviews with 30 Colombian policymakers, politicians, diplomats, bureaucrats, and NGO leaders, this study offers new insights into the drivers of inclusive migration policies in the Global South.</p>
@@ -78,14 +86,6 @@ details > p {
 </details> &nbsp; 
 [Pre-Analysis Plan](https://osf.io/agd9b){: .btn--research}
 [Working Paper](https://osf.io/preprints/osf/2gvy8){: .btn--research}
-
-
-**Misinformation among Migrants: Evidence from Mexico and Colombia** (with Antonella Bandiera)
-<br />
-<details><summary>Abstract</summary><p> This paper examines the effectiveness of media literacy interventions in combating misinformation among in-transit migrants in Mexico and Colombia. We conducted experiments to study whether an established strategy for fighting misinformation works for this understudied yet particularly vulnerable population. We evaluate the effect of digital media literacy tips on migrants' ability to identify false information and their intentions to share migration-related content. We find that these interventions can effectively decrease migrants' intentions to share misleading migration-related information, with a significantly larger reduction observed for false content than accurate information. We also find that prompting participants to think about accuracy can unintentionally obscure sharing intent by acting as a nudge. Additionally, the interventions decreased trust in social media as an information source while maintaining trust in official sources. The findings suggest that incorporating digital literacy tips into official websites could be a cost-effective strategy to reduce misinformation circulation among migrant populations.</p>
-</details> &nbsp; 
-[Pre-Analysis Plan](https://osf.io/njkcu){: .btn--research}
-[Working Paper](https://osf.io/preprints/osf/md42a){: .btn--research}
 
 **When Does the Public Care About Immigration? The Political Salience of Venezuelan Immigration in Colombia** (with Natália Bueno and Daniel Masterson)
 <br />
