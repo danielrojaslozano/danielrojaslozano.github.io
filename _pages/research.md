@@ -55,6 +55,13 @@ details > p {
 <a href="https://www.tandfonline.com/doi/full/10.1080/21565503.2024.2392240" target="_blank">[Paper]</a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YQ9DZJ" target="_blank">[Replication]</a>
 
+**A State-led Model of Financial Inclusion Through Mobile Services** (with Judith Mariscal). *Information Technologies & International Development*, 16: 20-31, (March 2020).
+<br />
+<a href="https://itidjournal.org/index.php/itid/article/download/1748/1748-5558-1-PB.pdf" target="_blank">[Paper]</a>
+
+**The Evolution of Inequality in Latin America in the Twenty-first Century: Patterns, Drivers and Hypotheses** (with Francesco Bogliacino). *PSL Quarterly Review*, 71(286): 279-308 (July 2018).
+<br />
+<a href="https://rosa.uniroma1.it/rosa04/psl_quarterly_review/article/view/14250/pdf" target="_blank">[Paper]</a>
 
 
 # Under Review
