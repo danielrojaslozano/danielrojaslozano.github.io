@@ -48,7 +48,7 @@ details > p {
 
 # Peer-Reviewed Publications
 
-**Government Ideology and Support for Redistribution among the Wealthy** (with Fabio Resmini). Conditionally accepted, *Political Science Research and Methods*.
+**Government Ideology and Support for Redistribution among the Wealthy** (with Fabio Resmini). Accepted at *Political Science Research and Methods*.
 
 **When Pandemic Threat Does Not Stoke Xenophobia: Evidence from a Panel Survey around COVID-19** (with Yang-Yang Zhou and Margaret Peters). *Politics, Groups, and Identities* (Sept 2024).
 <br />
