@@ -48,6 +48,8 @@ details > p {
 
 # Peer-Reviewed Publications
 
+**Misinformation among Migrants: Evidence from Mexico and Colombia** (with Antonella Bandiera). Conditionally accepted at the *Journal of Experimental Political Science*
+
 **Government Ideology and Support for Redistribution among the Wealthy** (with Fabio Resmini). Accepted at *Political Science Research and Methods*.
 
 **When Pandemic Threat Does Not Stoke Xenophobia: Evidence from a Panel Survey around COVID-19** (with Yang-Yang Zhou and Margaret Peters). *Politics, Groups, and Identities* (Sept 2024).
@@ -65,14 +67,6 @@ details > p {
 
 
 # Under Review
-
-
-**Misinformation among Migrants: Evidence from Mexico and Colombia** (with Antonella Bandiera)(R&R at *Journal of Experimental Political Science*)
-<br />
-<details><summary>Abstract</summary><p> This paper examines the effectiveness of media literacy interventions in combating misinformation among in-transit migrants in Mexico and Colombia. We conducted experiments to study whether an established strategy for fighting misinformation works for this understudied yet particularly vulnerable population. We evaluate the effect of digital media literacy tips on migrants' ability to identify false information and their intentions to share migration-related content. We find that these interventions can effectively decrease migrants' intentions to share misleading migration-related information, with a significantly larger reduction observed for false content than accurate information. We also find that prompting participants to think about accuracy can unintentionally obscure sharing intent by acting as a nudge. Additionally, the interventions decreased trust in social media as an information source while maintaining trust in official sources. The findings suggest that incorporating digital literacy tips into official websites could be a cost-effective strategy to reduce misinformation circulation among migrant populations.</p>
-</details> &nbsp; 
-[Pre-Analysis Plan](https://osf.io/njkcu){: .btn--research}
-[Working Paper](https://osf.io/preprints/osf/md42a){: .btn--research}
 
 **Protecting Irregular Migrants: Evidence from Colombia** (with Alfredo Trejo III, Margaret Peters, and Yang-Yang Zhou)(R&R at *Migration Studies*)
 <br />
