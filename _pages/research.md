@@ -100,11 +100,3 @@ details > p {
 **Barriers to Migrants’ Financial Inclusion: A Field Experiment on Bank Officers’ Immigration Attitudes in Colombia**
 <br />
 [Pre-Analysis Plan](https://osf.io/6zhsa){: .btn--research}
-
-
-**Emotional Responses Without Policy Attitude Shifts: Examining the Limits of Affective Influence in Politics** (with Natália Bueno and Daniel Masterson)
-<br />
-[Pre-Analysis Plan](https://osf.io/5yrwv){: .btn--research}
-
-**Do Right-Wing Governments Reward Left-Wing Opponents?** 
-
