@@ -48,14 +48,14 @@ details > p {
 
 # Peer-Reviewed Publications
 
-**Misinformation among Migrants: Evidence from Mexico and Colombia** (with Antonella Bandiera). Conditionally accepted at the *Journal of Experimental Political Science*
+Misinformation among Migrants: Evidence from Mexico and Colombia (with Antonella Bandiera). Conditionally accepted at the ***Journal of Experimental Political Science***
 
 **Government Ideology and Support for Redistribution among the Wealthy** (with Fabio Resmini). *Political Science Research and Methods* (July 2024).
 <br />
 <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/government-ideology-and-support-for-redistribution-among-the-wealthy/54B11F0DCF6B742F003FD3B3D32C8F52?utm_date=20250717&utm_id=1752738709&utm_campaign=Open%20Access,RAM&utm_source=twitter&utm_medium=social&utm_content" target="_blank">[Paper]</a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0TMLTI" target="_blank">[Replication]</a>
 
-**When Pandemic Threat Does Not Stoke Xenophobia: Evidence from a Panel Survey around COVID-19** (with Yang-Yang Zhou and Margaret Peters). *Politics, Groups, and Identities* (September 2024).
+**When Pandemic Threat Does Not Stoke Xenophobia: Evidence from a Panel Survey around COVID-19** (with Yang-Yang Zhou and Margaret Peters). *Politics, Groups, and Identities,* *13*(3), 648–667 (September 2024).
 <br />
 <a href="https://www.tandfonline.com/doi/full/10.1080/21565503.2024.2392240" target="_blank">[Paper]</a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YQ9DZJ" target="_blank">[Replication]</a>
