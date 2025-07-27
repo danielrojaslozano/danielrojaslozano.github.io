@@ -50,7 +50,7 @@ details > p {
 
 **Misinformation among Migrants: Evidence from Mexico and Colombia** (with Antonella Bandiera). Conditionally accepted at the *Journal of Experimental Political Science*
 
-**Government Ideology and Support for Redistribution among the Wealthy** (with Fabio Resmini). *Political Science Research and Methods* (2024).
+**Government Ideology and Support for Redistribution among the Wealthy** (with Fabio Resmini). *Political Science Research and Methods* (2025).
 <br />
 <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/government-ideology-and-support-for-redistribution-among-the-wealthy/54B11F0DCF6B742F003FD3B3D32C8F52?utm_date=20250717&utm_id=1752738709&utm_campaign=Open%20Access,RAM&utm_source=twitter&utm_medium=social&utm_content" target="_blank">[Paper]</a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0TMLTI" target="_blank">[Replication]</a>
