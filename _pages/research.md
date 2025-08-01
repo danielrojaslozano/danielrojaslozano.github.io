@@ -48,7 +48,7 @@ details > p {
 
 # Peer-Reviewed Publications
 
-**Misinformation among Migrants: Evidence from Mexico and Colombia** (with Antonella Bandiera). Conditionally accepted at the *Journal of Experimental Political Science*
+**Misinformation among Migrants: Evidence from Mexico and Colombia** (with Antonella Bandiera). Accepted at the *Journal of Experimental Political Science*
 
 **Government Ideology and Support for Redistribution among the Wealthy** (with Fabio Resmini). *Political Science Research and Methods* (2025).
 <br />
