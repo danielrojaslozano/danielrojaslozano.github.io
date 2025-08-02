@@ -48,9 +48,9 @@ details > p {
 
 # Peer-Reviewed Publications
 
-**Misinformation among Migrants: Evidence from Mexico and Colombia** (with Antonella Bandiera). Accepted at the *Journal of Experimental Political Science*
+**Misinformation among Migrants: Evidence from Mexico and Colombia** (with Antonella Bandiera). *Journal of Experimental Political Science.* Forthcoming.
 
-**Protecting Irregular Migrants: Evidence from Colombia** (with Alfredo Trejo III, Margaret Peters, and Yang-Yang Zhou). Accepted at *Migration Studies*
+**Protecting Irregular Migrants: Evidence from Colombia** (with Alfredo Trejo III, Margaret Peters, and Yang-Yang Zhou). *Migration Studies.* Forthcoming.
 
 **Government Ideology and Support for Redistribution among the Wealthy** (with Fabio Resmini). *Political Science Research and Methods* (2025).
 <br />
