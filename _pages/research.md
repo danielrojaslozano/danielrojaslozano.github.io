@@ -52,7 +52,7 @@ details > p {
 
 **Misinformation among Migrants: Evidence from Mexico and Colombia** (with Antonella Bandiera). *Journal of Experimental Political Science.* (2025).
 <br />
-<a href="https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/misinformation-among-migrants-evidence-from-mexico-and-colombia/AAF0E82F25941042F3C00685FBF29750#supplementary-materials" target="_blank">[Paper]</a>
+<a href="https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/misinformation-among-migrants-evidence-from-mexico-and-colombia/AAF0E82F25941042F3C00685FBF29750#article" target="_blank">[Paper]</a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XTMW3N" target="_blank">[Replication]</a>
 
 **Government Ideology and Support for Redistribution among the Wealthy** (with Fabio Resmini). *Political Science Research and Methods* (2025).
