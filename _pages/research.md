@@ -48,7 +48,9 @@ details > p {
 
 # Peer-Reviewed Publications
 
-**Protecting Irregular Migrants: Evidence from Colombia** (with Alfredo Trejo III, Margaret Peters, and Yang-Yang Zhou). *Migration Studies.* Forthcoming.
+**Protecting Irregular Migrants: Evidence from Colombia** (with Alfredo Trejo III, Margaret Peters, and Yang-Yang Zhou). *Migration Studies.* (2025).
+<br />
+<a href="https://academic.oup.com/migration/article/13/4/mnaf046/8272979?guestAccessKey=2866d0ab-3f6f-4484-bea0-08f7fe9b82fe&utm_source=authortollfreelink&utm_campaign=migration&utm_medium=email" target="_blank">[Paper]</a>
 
 **Misinformation among Migrants: Evidence from Mexico and Colombia** (with Antonella Bandiera). *Journal of Experimental Political Science.* (2025).
 <br />
